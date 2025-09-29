@@ -36,7 +36,7 @@ const portfolioData = {
       "id": 2, 
       "title": "Poster Campaign Series",
       "description": "Eye-catching poster series for environmental awareness campaign with modern typography and compelling visuals.",
-      "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=600&h=400&fit=crop",
+      "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
       "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva"],
       "liveUrl": "#",
       "githubUrl": "#", 
