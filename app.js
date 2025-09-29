@@ -5,7 +5,7 @@ const portfolioData = {
     "title": "Novice Designer", 
     "tagline": "Creating visual stories through design and creativity",
     "bio": "Passionate graphic designer dengan expertise di Adobe Creative Suite dan modern design tools. Saya mengkhususkan diri dalam menciptakan identitas visual yang compelling, graphics yang stunning, dan layouts professional yang komunikatif dengan efektif.",
-    "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+    "profileImage": "https://i.ibb.co.com/jZ1LDgqX/profilll.jpg",
     "location": "Banjarbaru, Indonesia", 
     "email": "ariza0562@gmail.com",
     "phone": "6285388368199"
