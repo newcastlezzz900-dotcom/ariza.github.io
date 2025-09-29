@@ -26,7 +26,7 @@ const portfolioData = {
       "id": 1,
       "title": "Brand Identity Design",
       "description": "Complete brand identity package including logo, color palette, typography, and brand guidelines for a tech startup.",
-      "image": "https://i.ibb.co/MkbPLMpG/LOKA-Recovered.png"
+      "image": "https://i.ibb.co.com/1fj1Gh1q/LOKA-Recovered.jpg"
       "techStack": ["Adobe Illustrator", "Adobe Photoshop", "CorelDraw"],
       "liveUrl": "#",
       "githubUrl": "#",
