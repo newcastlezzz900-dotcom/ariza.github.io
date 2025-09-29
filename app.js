@@ -1,18 +1,18 @@
 // Portfolio data with Indonesian Graphic Designer information
 const portfolioData = {
   "personalInfo": {
-    "name": "Alex Rivera",
-    "title": "Graphic Designer & Creative Professional", 
+    "name": "Ariza",
+    "title": "Novice Designer", 
     "tagline": "Creating visual stories through design and creativity",
     "bio": "Passionate graphic designer dengan expertise di Adobe Creative Suite dan modern design tools. Saya mengkhususkan diri dalam menciptakan identitas visual yang compelling, graphics yang stunning, dan layouts professional yang komunikatif dengan efektif.",
     "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
-    "location": "Jakarta, Indonesia", 
-    "email": "alex.rivera@example.com",
-    "phone": "+62 812-3456-7890"
+    "location": "Banjarbaru, Indonesia", 
+    "email": "ariza0562@gmail.com",
+    "phone": "6285388368199"
   },
   "socialLinks": [
-    {"name": "Instagram", "url": "#", "icon": "instagram"},
-    {"name": "LinkedIn", "url": "#", "icon": "linkedin"}
+    {"name": "Instagram", "url": "https://www.instagram.com/arkh_tong?igsh=czVud3IyeDF4cmxp", "icon": "instagram"},
+    {"name": "LinkedIn", "url": "https://www.linkedin.com/in/ariza-kholish-1557772a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", "icon": "linkedin"}
   ],
   "skills": [
     {"name": "Adobe Illustrator", "level": 85, "icon": "adobe-illustrator", "brandColor": "#FF9A00"},
