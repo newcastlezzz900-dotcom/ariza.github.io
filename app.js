@@ -1,7 +1,7 @@
 // Portfolio data with Indonesian Graphic Designer information
 const portfolioData = {
   "personalInfo": {
-    "name": "Ariza",
+    "name": "Ariza Naufal",
     "title": "Novice Designer", 
     "tagline": "Creating visual stories through design and creativity",
     "bio": "Passionate graphic designer dengan expertise di Adobe Creative Suite dan modern design tools. Saya mengkhususkan diri dalam menciptakan identitas visual yang compelling, graphics yang stunning, dan layouts professional yang komunikatif dengan efektif.",
