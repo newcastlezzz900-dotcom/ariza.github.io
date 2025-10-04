@@ -51,8 +51,7 @@ const portfolioData = {
       "liveUrl": "#",
       "githubUrl": "#",
       "category": "Logo Design"
-    },
-    
+    }, 
   ],
   "experience": [
     {
