@@ -37,20 +37,20 @@ const portfolioData = {
       "title": "Printing Apprentice",
       "description": "I did an internship for 3 years while studying at SMKN 1 Raren Batuah.",
       "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
-      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work],
+      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work"],
       "liveUrl": "#",
       "githubUrl": "#", 
       "category": "Apprenticeship"
     },
     {
-      "id": 2, 
-      "title": "Printing Apprentice",
-      "description": "I did an internship for 3 years while studying at SMKN 1 Raren Batuah.",
-      "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
-      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work],
+      "id": 3, 
+      "title": "SMK internship report service",
+      "description": "I once provided an internship report creation service for the class below mine.",
+      "image": "https://i.ibb.co.com/sdFXGfjt/laporan-magang.jpg",
+      "techStack": ["Microsoft word"],
       "liveUrl": "#",
       "githubUrl": "#", 
-      "category": "Apprenticeship"
+      "category": "internship report services"
     }
   ]
 };
