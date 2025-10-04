@@ -42,15 +42,15 @@ const portfolioData = {
       "githubUrl": "#", 
       "category": "Apprenticeship"
     },
-     {
-      "id": 3,
-      "title": "E-Commerce Platform",
-      "description": "Full-stack e-commerce solution with payment integration, admin panel, and inventory management.",
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
-      "techStack": ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
+    {
+      "id": 2, 
+      "title": "Printing Apprentice",
+      "description": "I did an internship for 3 years while studying at SMKN 1 Raren Batuah.",
+      "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
+      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work],
       "liveUrl": "#",
-      "githubUrl": "#",
-      "category": "Web App"
+      "githubUrl": "#", 
+      "category": "Apprenticeship"
     }
   ]
 };
