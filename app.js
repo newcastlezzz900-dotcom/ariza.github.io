@@ -37,7 +37,7 @@ const portfolioData = {
       "title": "Printing Apprentice",
       "description": "I did an internship for 3 years while studying at SMKN 1 Raren Batuah.",
       "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
-      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work"],
+      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", "physical Work"],
       "liveUrl": "#",
       "githubUrl": "#", 
       "category": "Apprenticeship"
