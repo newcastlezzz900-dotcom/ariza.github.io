@@ -51,8 +51,10 @@ const portfolioData = {
       "liveUrl": "#",
       "githubUrl": "#",
       "category": "Logo Design"
-    }, 
-  ],
+    }  
+  ]
+};
+  
   "experience": [
     {
       "company": "Creative Studio Indonesia",
