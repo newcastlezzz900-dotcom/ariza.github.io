@@ -21,7 +21,7 @@ const portfolioData = {
     {"name": "MS Word", "level": 90, "icon": "microsoft-word", "brandColor": "#0078D4"},
     {"name": "Canva", "level": 85, "icon": "canva", "brandColor": "#00C4CC"}
   ],
-  "projects": [
+  "projects":[
     {
       "id": 1,
       "title": "Brand Identity Design",
@@ -52,7 +52,7 @@ const portfolioData = {
       "githubUrl": "#", 
       "category": "internship report services"
     }
-  ]
+  ],
   "experience": [
     {
       "company": "Creative Studio Indonesia",
