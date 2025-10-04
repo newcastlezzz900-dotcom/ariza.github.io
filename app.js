@@ -30,38 +30,29 @@ const portfolioData = {
       "techStack": ["Adobe Illustrator", "Adobe Photoshop", "CorelDraw"],
       "liveUrl": "#",
       "githubUrl": "#",
-      "category": "Brand Design"
+      "category": "Logo Design"
     },
     {
       "id": 2, 
-      "title": "Poster Campaign Series",
-      "description": "Eye-catching poster series for environmental awareness campaign with modern typography and compelling visuals.",
+      "title": "Printing Apprentice",
+      "description": "I did an internship for 3 years while studying at SMKN 1 Raren Batuah.",
       "image": "https://i.ibb.co.com/fG1rwftk/1000090486-1.jpg",
-      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva"],
+      "techStack": ["Adobe Illustrator", "Adobe Photoshop", "Canva", " physical Work],
       "liveUrl": "#",
       "githubUrl": "#", 
-      "category": "Print Design"
+      "category": "Apprenticeship"
     },
     {
       "id": 3,
       "title": "Logo Collection 2024",
-      "description": "Diverse collection of logos designed for various clients including restaurants, tech companies, and creative agencies.",
-      "image": "https://images.unsplash.com/photo-1626785774625-0b1c2c4eab67?w=600&h=400&fit=crop",
-      "techStack": ["Adobe Illustrator", "CorelDraw"],
+      "description": "I am looking for an internship report writing service",
+      "image": "https://i.ibb.co.com/sdFXGfjt/laporan-magang.jpg",
+      "techStack": ["Microsoft Word"],
       "liveUrl": "#",
       "githubUrl": "#",
       "category": "Logo Design"
     },
-    {
-      "id": 4,
-      "title": "Digital Marketing Materials", 
-      "description": "Complete set of digital marketing assets including social media graphics, web banners, and email templates.",
-      "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=600&h=400&fit=crop",
-      "techStack": ["Canva", "Adobe Photoshop", "MS Word"],
-      "liveUrl": "#",
-      "githubUrl": "#",
-      "category": "Digital Design"
-    }
+    
   ],
   "experience": [
     {
