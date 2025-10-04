@@ -53,8 +53,6 @@ const portfolioData = {
       "category": "internship report services"
     }
   ]
-};
-  
   "experience": [
     {
       "company": "Creative Studio Indonesia",
