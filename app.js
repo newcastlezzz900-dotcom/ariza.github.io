@@ -45,7 +45,7 @@ const portfolioData = {
     {
       "id": 3,
       "title": "Logo Collection 2024",
-      "description": "I am looking for an internship report writing service",
+      "description": "I am looking for an internship report writing service.",
       "image": "https://i.ibb.co.com/sdFXGfjt/laporan-magang.jpg",
       "techStack": ["Microsoft Word"],
       "liveUrl": "#",
@@ -58,9 +58,9 @@ const portfolioData = {
   "experience": [
     {
       "company": "Creative Studio Indonesia",
-      "position": "Senior Graphic Designer",
-      "period": "2021 - Present",
-      "description": "Leading design projects for various clients, specializing in brand identity and print design using Adobe Creative Suite."
+      "position": "Junior Graphic Designer",
+      "period": "2024 - Present",
+      "description": "Leading design projects for various clients."
     },
     {
       "company": "Digital Agency Jakarta", 
