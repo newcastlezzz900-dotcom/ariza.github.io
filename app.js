@@ -42,16 +42,16 @@ const portfolioData = {
       "githubUrl": "#", 
       "category": "Apprenticeship"
     },
-    {
+     {
       "id": 3,
-      "title": "Logo Collection 2024",
-      "description": "I am looking for an internship report writing service.",
-      "image": "https://i.ibb.co.com/sdFXGfjt/laporan-magang.jpg",
-      "techStack": ["Microsoft Word"],
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with payment integration, admin panel, and inventory management.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&h=400&fit=crop",
+      "techStack": ["Next.js", "Stripe", "PostgreSQL", "Tailwind"],
       "liveUrl": "#",
       "githubUrl": "#",
-      "category": "Logo Design"
-    }  
+      "category": "Web App"
+    }
   ]
 };
   
